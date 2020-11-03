@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Axel-Bentancur-Portfolio/static/css/main.fb2af008.chunk.css",
+    "main.js": "/Axel-Bentancur-Portfolio/static/js/main.389844b4.chunk.js",
+    "main.js.map": "/Axel-Bentancur-Portfolio/static/js/main.389844b4.chunk.js.map",
+    "runtime-main.js": "/Axel-Bentancur-Portfolio/static/js/runtime-main.ad9832ff.js",
+    "runtime-main.js.map": "/Axel-Bentancur-Portfolio/static/js/runtime-main.ad9832ff.js.map",
+    "static/js/2.8505b853.chunk.js": "/Axel-Bentancur-Portfolio/static/js/2.8505b853.chunk.js",
+    "static/js/2.8505b853.chunk.js.map": "/Axel-Bentancur-Portfolio/static/js/2.8505b853.chunk.js.map",
+    "index.html": "/Axel-Bentancur-Portfolio/index.html",
+    "precache-manifest.a72763d5965a7b4b5af1d256f0d045c8.js": "/Axel-Bentancur-Portfolio/precache-manifest.a72763d5965a7b4b5af1d256f0d045c8.js",
+    "service-worker.js": "/Axel-Bentancur-Portfolio/service-worker.js",
+    "static/css/main.fb2af008.chunk.css.map": "/Axel-Bentancur-Portfolio/static/css/main.fb2af008.chunk.css.map",
+    "static/js/2.8505b853.chunk.js.LICENSE.txt": "/Axel-Bentancur-Portfolio/static/js/2.8505b853.chunk.js.LICENSE.txt",
+    "static/media/asd2.jpg": "/Axel-Bentancur-Portfolio/static/media/asd2.c09c7696.jpg",
+    "static/media/bootstrap-plain.e13dd10e.svg": "/Axel-Bentancur-Portfolio/static/media/bootstrap-plain.e13dd10e.svg",
+    "static/media/css3-plain.4bc37d5a.svg": "/Axel-Bentancur-Portfolio/static/media/css3-plain.4bc37d5a.svg",
+    "static/media/external-link.ed844b5c.svg": "/Axel-Bentancur-Portfolio/static/media/external-link.ed844b5c.svg",
+    "static/media/git-original.90eaa97f.svg": "/Axel-Bentancur-Portfolio/static/media/git-original.90eaa97f.svg",
+    "static/media/github-original.514506bd.svg": "/Axel-Bentancur-Portfolio/static/media/github-original.514506bd.svg",
+    "static/media/html5-plain.2e13fa37.svg": "/Axel-Bentancur-Portfolio/static/media/html5-plain.2e13fa37.svg",
+    "static/media/javascript-plain.f13153bb.svg": "/Axel-Bentancur-Portfolio/static/media/javascript-plain.f13153bb.svg",
+    "static/media/jquery-plain.557343ec.svg": "/Axel-Bentancur-Portfolio/static/media/jquery-plain.557343ec.svg",
+    "static/media/linkedin-original.d3ee64f6.svg": "/Axel-Bentancur-Portfolio/static/media/linkedin-original.d3ee64f6.svg",
+    "static/media/mongodb-plain.1d2471fa.svg": "/Axel-Bentancur-Portfolio/static/media/mongodb-plain.1d2471fa.svg",
+    "static/media/nodejs-plain.cdfad59f.svg": "/Axel-Bentancur-Portfolio/static/media/nodejs-plain.cdfad59f.svg",
+    "static/media/pdf.a5da7c54.svg": "/Axel-Bentancur-Portfolio/static/media/pdf.a5da7c54.svg",
+    "static/media/photoshop-plain.4f61fea6.svg": "/Axel-Bentancur-Portfolio/static/media/photoshop-plain.4f61fea6.svg",
+    "static/media/react-original.600b0d29.svg": "/Axel-Bentancur-Portfolio/static/media/react-original.600b0d29.svg",
+    "static/media/sass-original.98425b2a.svg": "/Axel-Bentancur-Portfolio/static/media/sass-original.98425b2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9832ff.js",
+    "static/js/2.8505b853.chunk.js",
+    "static/css/main.fb2af008.chunk.css",
+    "static/js/main.389844b4.chunk.js"
+  ]
+}
