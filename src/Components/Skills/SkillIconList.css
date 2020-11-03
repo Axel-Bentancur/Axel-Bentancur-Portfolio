@@ -1,0 +1,70 @@
+/* -----------------SVG SKILLS ICONS----------------- */
+
+.skill {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+.skill-icons {
+  width: 3.5em;
+  margin: 0.5em;
+  fill: var(--gray-color);
+  transition: all 0.3s ease-in-out;
+}
+
+.skill-icons:hover {
+  transform: scale(1.3);
+}
+/* -----------------SVG SKILLS ICONS COLORS----------------- */
+.html:hover {
+  fill: #e44d26;
+}
+
+.css:hover {
+  fill: #1572b6;
+}
+
+.boots:hover {
+  fill: #5b4282;
+}
+
+.js:hover {
+  fill: #f0db4f;
+}
+
+.jq:hover {
+  fill: #0868ac;
+}
+
+.react:hover {
+  fill: #61dafb;
+}
+
+.git:hover {
+  fill: #f34f29;
+}
+
+.node:hover {
+  fill: #83cd29;
+}
+
+.mongo:hover {
+  fill: #4faa41;
+}
+
+.photo:hover {
+  fill: #8035e2;
+}
+
+.sass:hover {
+  fill: #cb6699;
+}
+
+/* -----------------RESPONSIVE LAYOUT----------------- */
+
+@media screen and (max-width: 588px) {
+  .skill-icons {
+    width: 2.5em;
+    margin: 0.5em;
+  }
+}

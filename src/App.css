@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--black-bg-color);
+}
+
+:root {
+  --black-bg-color: #201f1f;
+  --cian-color: #7cf7f7;
+  --text-color: #e7e7e7;
+  --gray-color: #757474;
+}
+
+/*----------ALL----------*/
+.section-container {
+  margin: 9% 3% 3% 3%;
+}
+
+/*----------SECTIONS STYLES----------*/
+.section-name {
+  margin: 1em 0 1em 0;
+}
+
+.section-text {
+  font-family: "Allerta Stencil", sans-serif;
+  font-size: 3rem;
+  letter-spacing: 1px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+  padding-left: 1em;
+}
+
+.text-right {
+  text-align: right;
+  padding-right: 1em;
+}
+
+.gray {
+  color: var(--gray-color);
+}
+
+.cian {
+  color: var(--cian-color);
+}
+
+.white {
+  color: var(--text-color);
+}
+
+/*----------------ABOUT SECTION---------------*/
+.about-text {
+  width: 60%;
+  margin: auto;
+  opacity: 0;
+}
+
+p {
+  color: var(--text-color);
+  padding: 3vw 0;
+}
+/* -----------------ABOUT RESPONSIVE LAYOUT----------------- */
+
+@media screen and (max-width: 588px) {
+  .about-text {
+    width: 70%;
+    text-align: center;
+  }
+
+  .text-left {
+    text-align: center;
+  }
+
+  .text-right {
+    padding-right: 0;
+    text-align: center;
+  }
+
+  .section-text {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .section-text {
+    font-size: 2rem;
+  }
+}
